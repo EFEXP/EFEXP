@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github-profile-trophy.vercel.app/?username=EFEXP)
 <!--
 **EFEXP/EFEXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
