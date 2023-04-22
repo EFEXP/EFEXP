@@ -1,16 +1,22 @@
-### Hi there 👋
-![](https://github-profile-trophy.vercel.app/?username=EFEXP)
-<!--
-**EFEXP/EFEXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm EFEXP!
 
-Here are some ideas to get you started:
+## :man_technologist: Work 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm the CEO of RAKUDEJI.inc, leading a team of talented developers in creating innovative software solutions. Our mission is to make technology and the internet as accessible as water from a faucet. We are now focused on creating an AI-driven image generation API to achieve this mission.
+
+## :fire: Interests
+
+I'm interested in:
+
+- 🌐 Diffusion 
+- 🦄 Typescript
+- ❄️ Snowflake
+
+## :raising_hand_man: Contributing
+
+I welcome pull requests and collaboration on my projects. Feel free to get involved and contribute to making great software!
+
+## :email: Get in touch
+
+If you want to get in touch, don't hesitate to reach out through my [email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
+
