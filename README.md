@@ -8,7 +8,6 @@ I'm the CEO of RAKUDEJI.inc, leading a team of talented developers in creating i
 
 I'm interested in:
 
-- 🌐 Diffusion 
 - 🦄 Typescript
 - ❄️ Snowflake
 
