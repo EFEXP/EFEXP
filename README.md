@@ -6,10 +6,10 @@ I'm the CEO of RAKUDEJI.inc, leading a team of talented developers in creating i
 
 ## :fire: Interests
 
-I'm interested in:
-
-- 🦄 Typescript
-- ❄️ Snowflake
+I'm now interested in:
+- Azure
+- Typescript
+- Snowflake
 
 ## :raising_hand_man: Contributing
 
