@@ -2,7 +2,7 @@
 
 ## :man_technologist: Work 
 
-I'm the CEO of RAKUDEJI.inc, leading a team of talented developers in creating innovative software solutions. Our mission is to make technology and the internet as accessible as water from a faucet. We are now focused on creating an AI-driven image generation API to achieve this mission.
+I'm the CEO of RAKUDEJI.inc
 
 ## :fire: Interests
 
