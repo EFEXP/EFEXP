@@ -7,7 +7,7 @@ I'm the CEO of RAKUDEJI.inc
 ## :fire: Interests
 
 I'm now interested in:
-- Azure
+- AWS
 - Typescript
 - Snowflake
 
