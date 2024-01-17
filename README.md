@@ -8,7 +8,7 @@ I'm the CEO of RAKUDEJI.inc
 
 I'm now interested in:
 - AWS
-- Typescript
+- Linux
 - Snowflake
 
 ## :raising_hand_man: Contributing
